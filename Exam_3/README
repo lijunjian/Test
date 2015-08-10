@@ -1,0 +1,6 @@
+mvn clean
+mvn compile
+mvn exec:java -Dexec.mainClass="com.hand.Exam_3.App"
+
+
+XML文档自动生成，但不显示。JSON显示，但需要手动生成文档。
